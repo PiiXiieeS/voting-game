@@ -1,0 +1,29 @@
+{
+  "name": "picture-voting-game",
+  "version": "0.0.1",
+  "description": "This is a simple picture voting game with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CruiseDevice/voting-game.git"
+  },
+  "keywords": [
+    "game",
+    "picture",
+    "voting"
+  ],
+  "author": "Martin Angelov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CruiseDevice/voting-game/issues"
+  },
+  "homepage": "https://github.com/CruiseDevice/voting-game#readme",
+  "dependencies": {
+    "express": "~3.4.7",
+    "express3-handlebars": "~0.5.0",
+    "nedb": "^0.9.4"
+  }
+}
